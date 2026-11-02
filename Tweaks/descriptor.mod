@@ -3,5 +3,5 @@ tags={
 	"Gameplay"
 }
 name="Tweaks"
-supported_version="1.17.*"
+supported_version="1.19.*"
 path="C:/Users/kjeti/Documents/Paradox Interactive/Hearts of Iron IV/mod/Tweaks"
